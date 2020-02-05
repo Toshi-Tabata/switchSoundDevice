@@ -21,7 +21,7 @@ The scripts are reliant on nircmd [(download)](http://www.nirsoft.net/utils/nirc
 2. Open the `nircmd` folder and copy and paste nircmd.exe into `%windir%\system32`
 
 3. Install Autohotkey
-4. Download the latest release
+4. Download the [latest release](https://github.com/Toshi-Tabata/switchSoundDevice/releases/latest)
 
 5. Extract the file and open the extracted file
 
@@ -31,7 +31,7 @@ The scripts are reliant on nircmd [(download)](http://www.nirsoft.net/utils/nirc
 
 ![image-20200205172817678](readme.assets/image-20200205172817678.png)
 
-8. Inside the script, change the `change this to your sound device name` to your sound device's name (to find the name, see "Finding Your Sound Device Name" section below)
+8. Inside the script, change the `change this to your sound device name` to your sound device's name (to find the name, see ["Finding Your Sound Device Name"](#FindYourDeviceName) section below)
 
 ![image-20200205172916255](readme.assets/image-20200205172916255.png)
 
@@ -43,7 +43,7 @@ The scripts are reliant on nircmd [(download)](http://www.nirsoft.net/utils/nirc
 
 
 
-## Finding Your Sound Device Name
+## Finding Your Sound Device Name <a name="FindYourDeviceName"></a>
 
 1. Right click the sound icon
 
