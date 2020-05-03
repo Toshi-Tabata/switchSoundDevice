@@ -21,9 +21,10 @@ The scripts are reliant on nircmd [(download)](http://www.nirsoft.net/utils/nirc
 2. Open the `nircmd` folder and copy and paste nircmd.exe into `%windir%\system32`
 
 3. Install Autohotkey
-4. Download the [latest release](https://github.com/Toshi-Tabata/switchSoundDevice/releases/latest)
 
-5. Extract the file and open the extracted file
+4. Download the [latest release](https://github.com/Toshi-Tabata/switchSoundDevice/releases/latest) of this repository
+
+5. Extract the repository zip file that you just downloaded in step 4. and open the extracted file
 
 6. Copy and paste **EITHER** `cycleSoundDevices.ahk` or `toggleSoundDevices.ahk` into %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
 
