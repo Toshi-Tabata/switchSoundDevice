@@ -26,7 +26,7 @@ The scripts are reliant on nircmd [(download)](http://www.nirsoft.net/utils/nirc
 
 5. Extract the repository zip file that you just downloaded in step 4. and open the extracted file
 
-6. Copy and paste **EITHER** `cycleSoundDevices.ahk` or `toggleSoundDevices.ahk` into %appdata%\Microsoft\Windows\Start Menu\Programs\Startup
+6. Copy and paste **EITHER** `cycleSoundDevices.ahk` or `toggleSoundDevices.ahk` into `%appdata%\Microsoft\Windows\Start Menu\Programs\Startup`
 
 7. Right click `cycleSoundDevices.ahk` or `toggleSoundDevices.ahk` and click `Edit Script`
 
